@@ -22,8 +22,7 @@ Create a repository file  http://classroom.example.com/content/rhel9.0/x86_64/dv
 ## Step 5 :dnf repolist
 
 # Output:
-<img width="1256" height="752" alt="Screenshot 2025-11-09 153717" src="https://github.com/user-attachments/assets/5b61bf74-0cdd-4109-b79e-
-  abef310d6b70" />
+<img width="1256" height="752" alt="Screenshot 2025-11-09 153717" src="https://github.com/user-attachments/assets/5b61bf74-0cdd-4109-b79e-abef310d6b70" />
 
 # Result:
 Thus the steps worked in Red hat lab (Terminal).
